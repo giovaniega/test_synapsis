@@ -1,0 +1,746 @@
+[
+    {
+        "timestamp": "2026-01-01 22:57:57",
+        "city": "Jakarta",
+        "temperature": 26.01,
+        "temperature_unit": "C",
+        "humidity": 86,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 22:58:07",
+        "city": "Jakarta",
+        "temperature": 26.01,
+        "temperature_unit": "C",
+        "humidity": 86,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:04:04",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:04:09",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:04:14",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:06:20",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:06:30",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:07:13",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:07:19",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:09:26",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:09:31",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:09:36",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:09:41",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:09:55",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:10:00",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:10:06",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:10:11",
+        "city": "solo",
+        "temperature": 25.17,
+        "temperature_unit": "C",
+        "humidity": 88,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-01 23:11:44",
+        "city": "yogyakarta",
+        "temperature": 23.96,
+        "temperature_unit": "C",
+        "humidity": 99,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:02:53",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:03:03",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:05:24",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:05:34",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:09:45",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:09:50",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:09:55",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:10:00",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:10:06",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:10:11",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:10:16",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:10:21",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:10:26",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:10:32",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:10:37",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:10:42",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:10:54",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:10:59",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:11:05",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:11:10",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:11:15",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:12:33",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:12:38",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:12:44",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:12:49",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:13:09",
+        "city": "semarang",
+        "temperature": 30.96,
+        "temperature_unit": "C",
+        "humidity": 66,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:13:14",
+        "city": "semarang",
+        "temperature": 30.96,
+        "temperature_unit": "C",
+        "humidity": 66,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:14:23",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:14:28",
+        "city": "yogyakarta",
+        "temperature": 29.59,
+        "temperature_unit": "C",
+        "humidity": 75,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 16:14:46",
+        "city": "manado",
+        "temperature": 28.43,
+        "temperature_unit": "C",
+        "humidity": 89,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:49:59",
+        "city": "yogyakarta",
+        "temperature": 26.29,
+        "temperature_unit": "C",
+        "humidity": 99,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:50:05",
+        "city": "yogyakarta",
+        "temperature": 26.29,
+        "temperature_unit": "C",
+        "humidity": 99,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:50:10",
+        "city": "yogyakarta",
+        "temperature": 26.29,
+        "temperature_unit": "C",
+        "humidity": 99,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:50:15",
+        "city": "yogyakarta",
+        "temperature": 26.29,
+        "temperature_unit": "C",
+        "humidity": 99,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:50:20",
+        "city": "yogyakarta",
+        "temperature": 26.29,
+        "temperature_unit": "C",
+        "humidity": 99,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:50:47",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:50:54",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:51:02",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:51:09",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:51:16",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:51:23",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:51:30",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:51:37",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:51:45",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:51:52",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:51:59",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:52:06",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:52:13",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:52:21",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:52:28",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:52:35",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:52:42",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:52:49",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:52:57",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:53:04",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:53:11",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:53:18",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:53:25",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:53:32",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:53:40",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:53:47",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:53:54",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:54:01",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:54:08",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:54:15",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:54:23",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:54:30",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:54:37",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:54:44",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:54:51",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:54:58",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:55:05",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:55:13",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:55:20",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    },
+    {
+        "timestamp": "2026-01-04 20:55:27",
+        "city": "semarang",
+        "temperature": 24.96,
+        "temperature_unit": "C",
+        "humidity": 94,
+        "humidity_unit": "%"
+    }
+]
